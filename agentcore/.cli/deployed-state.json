@@ -1,0 +1,17 @@
+{
+  "targets": {
+    "default": {
+      "resources": {
+        "runtimes": {
+          "PetStoreAgent": {
+            "runtimeId": "PetStoreProject_PetStoreAgent-iTMg4wGg4k",
+            "runtimeArn": "arn:aws:bedrock-agentcore:ap-northeast-2:595362810845:runtime/PetStoreProject_PetStoreAgent-iTMg4wGg4k",
+            "roleArn": "arn:aws:iam::595362810845:role/AgentCore-PetStoreProject-ApplicationAgentPetStoreA-yeIwchNHO3yB"
+          }
+        },
+        "stackName": "AgentCore-PetStoreProject-default",
+        "deployHash": "06d199ad9ed48207"
+      }
+    }
+  }
+}
